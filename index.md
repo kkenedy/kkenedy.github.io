@@ -15,7 +15,7 @@ sou um estudante de jogos que gosta muito das aulas do professor marcelo
 
 ## artes
 
-!(goki)(https://www.google.com.br/search?q=goku&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAgpXW8JjZAhVDH5AKHULmCisQ_AUICigB&biw=1920&bih=974#imgrc=qybxteMHeAHAlM:)
+!(goku)(https://www.google.com.br/search?q=goku&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAgpXW8JjZAhVDH5AKHULmCisQ_AUICigB&biw=1920&bih=974#imgrc=qybxteMHeAHAlM:)
 
 ## programação
 
