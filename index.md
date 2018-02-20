@@ -15,7 +15,7 @@ sou um estudante de jogos que gosta muito das aulas do professor marcelo
 [![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
 
 * Pense se você puder
-[![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
+[![pense se puder.png](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 ## artes
 
