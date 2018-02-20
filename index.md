@@ -15,9 +15,8 @@ sou um estudante de jogos que gosta muito das aulas do professor marcelo
 
 ## artes
 
-![](goku.png)
+![](tela jogo.png)
 
-![goku](https://www.fatosdesconhecidos.com.br/wp-content/uploads/2017/10/son_goku_ultra_instinct_form_by_rmehedi-dbpwu2b.png)
 
 ## programação
 2
