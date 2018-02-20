@@ -11,10 +11,11 @@ sou um estudante de jogos que gosta muito das aulas do professor marcelo
 
 ## Games
 
+* Mais rápido que a música 
+[![](Faster Than Song.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
 
-![]()[https://jefferson141.github.io/Faster%20Than%20Song/]
-
-![](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
+* Pense se você puder
+[![](Jogo1.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 ## artes
 
