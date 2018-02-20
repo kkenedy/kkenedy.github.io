@@ -2,7 +2,7 @@
 layout: default
 ---
 
-criando  **minha**, _pagina_,  ~~principa~~.
+
 # Quem sou eu
 
 sou um estudante de jogos que gosta muito das aulas do professor marcelo
