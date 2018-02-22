@@ -9,7 +9,7 @@ Meu nome é João Kennedy Oliveira da Silva, tenho 18 anos sou um estudante do c
 
 ## Jogos
 
-esses jogos todos foram feitos em parceria com meus amigos programadores e animadores,  **Jefferson Leocardo, # Guilherme Eglé e # Julio Cesar souza
+todos os jogos foram criados na disciplina de oficina ministrada pelo professor MArcelo Mesmo com a parceria dos meus amigos programadores e animadores,  **Jefferson Leocardo, # Guilherme Eglé e # Julio Cesar souza.
 
 * Mais rápido que a música 
 [![](mais-rapido-que-o-som.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
@@ -30,18 +30,6 @@ estas são as artes feitas por mim, que foram colocadas nos em meus jogos.
 
 ![](Cobra.png)
 
-
-## programação
-2
-## animação
-
-## apresentações
-
-* aula de musica
-
-* aula de teatro
-
-* 
 
 
 * * *
