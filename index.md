@@ -24,6 +24,8 @@ estas são as artes feitas por mim, que foram colocadas nos em meus jogos.
 
 ![](Celular.png)
 
+![](Leão.png)
+
 
 ## programação
 2
