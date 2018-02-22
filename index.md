@@ -26,6 +26,10 @@ estas são as artes feitas por mim, que foram colocadas nos em meus jogos.
 
 ![](Leão.png)
 
+![](Arvore.png)
+
+![](Cobra.png)
+
 
 ## programação
 2
