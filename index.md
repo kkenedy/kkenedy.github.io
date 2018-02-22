@@ -3,11 +3,13 @@
 # Quem sou eu?
 ![](Kennedy.jpg)
 
-Meu nome é João Kennedy Oliveira da Silva, tenho 18anos  estudante do curso de programação de jogos digitais Campos Ceará-Mirim.
+Meu nome é João Kennedy Oliveira da Silva, tenho 18 anos sou um estudante do curso de programação de jogos digitais Campos Ceará-Mirim, embora nós somos desenvolvedor de jogos como todos temos as nossas peculiaridades e preferencias, nós programamos animamos e ainda temos a parte de game disigner maiaseu prefiro mais a parte de animação.
 
 
 
 ## Jogos
+
+esses jogos todos foram feitos em parceria com meus amigos programadores e animadores, # Jefferson Leocardo, # Guilherme Eglé e # Julio Cesar souza
 
 * Mais rápido que a música 
 [![](mais-rapido-que-o-som.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
