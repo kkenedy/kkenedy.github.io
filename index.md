@@ -19,6 +19,8 @@ Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação 
 
 ![](Personagem.png)
 
+![](Celular.png)
+
 
 ## programação
 2
