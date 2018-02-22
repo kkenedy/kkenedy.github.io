@@ -1,13 +1,11 @@
----
-layout: default
----
 
 
 # Quem sou eu
+[![]()
 
-sou um estudante de jogos que gosta muito das aulas do professor marcelo
+Meu nome é joão kennedy, sou estudante do campos Ceara Mirim RN, fazendo o curso de programação de jogos.
 
-# portifolio
+
 
 ## Games
 
