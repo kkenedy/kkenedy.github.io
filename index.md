@@ -1,6 +1,6 @@
 
 
-# Quem sou eu
+# Quem sou eu?
 ![](Kennedy.jpg)
 
 Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação de jogos digitais Campos Ceará-Mirim.
@@ -17,7 +17,7 @@ Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação 
 
 ## artes
 
-![](tela jogo.png)
+![](Personagem.png)
 
 
 ## programação
