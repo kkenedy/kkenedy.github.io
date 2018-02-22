@@ -3,7 +3,7 @@
 # Quem sou eu?
 ![](Kennedy.jpg)
 
-Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação de jogos digitais Campos Ceará-Mirim.
+Meu nome é João Kennedy Oliveira da Silva, tenho 18anos  estudante do curso de programação de jogos digitais Campos Ceará-Mirim.
 
 
 
@@ -16,6 +16,7 @@ Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação 
 [![](pense-se-puder.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 ## artes
+estas são as artes feitas por mim, que foram colocadas nos em meus jogos.
 
 ![](Personagem.png)
 
