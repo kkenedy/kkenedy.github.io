@@ -1,7 +1,7 @@
 
 
 # Quem sou eu
-[![]()
+[![](Kennedy.jpg)
 
 Meu nome é joão kennedy, sou estudante do campos Ceara Mirim RN, fazendo o curso de programação de jogos.
 
