@@ -3,11 +3,11 @@
 # Quem sou eu
 ![](Kennedy.jpg)
 
-Meu nome é joão kennedy, sou estudante do campos Ceara Mirim RN, fazendo o curso de programação de jogos.
+Meu nome é João Kennedy Oliveira da Silva estudante do curso de programação de jogos digitais Campos Ceará-Mirim.
 
 
 
-## Games
+## Jogos
 
 * Mais rápido que a música 
 [![](mais-rapido-que-o-som.png)](https://jefferson141.github.io/Faster%20Than%20Song/)
