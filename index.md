@@ -17,6 +17,7 @@ todos os jogos foram criados na disciplina de oficina ministrada pelo professor 
 * Pense se você puder
 [![](pense-se-puder.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
+* Entregue se puder
 [![](Mão.png)](https://kkenedy.github.io/Entregue%20se%20puder/)
 
 ## artes
