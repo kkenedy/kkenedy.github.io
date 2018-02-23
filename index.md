@@ -20,7 +20,7 @@ todos os jogos foram criados na disciplina de oficina ministrada pelo professor 
 * Entregue se puder
 [![](Mão.png)](https://kkenedy.github.io/Entregue%20se%20puder/)
 
-## artes
+## Artes
 estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pela disciplinas do professor de motores e animação **Durval pacheco**.
 
 ![](Personagem.png)
@@ -39,12 +39,11 @@ estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pe
 
 * * *
 
-** negrito    
-_ italico    
-~~ riscado    
+## Contatos
 
-#s uma ou mais  hastags cria capítulos ou sub capitulos
-
+Email: Joaokennedy_@outlook.com.br
+Gmail: kennedyjoao1999@gmail.com
+Facebook: Kennedy Oliveira
 * * *
 
 Atualizacao 23/02
