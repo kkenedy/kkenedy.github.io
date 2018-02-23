@@ -44,6 +44,7 @@ estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pe
 Email: Joaokennedy_@outlook.com.br  
 Gmail: kennedyjoao1999@gmail.com  
 Facebook: Kennedy Oliveira
+
 * * *
 
 Atualizacao 23/02
