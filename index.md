@@ -18,7 +18,7 @@ todos os jogos foram criados na disciplina de oficina ministrada pelo professor 
 [![](pense-se-puder.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
 ## artes
-estas são as artes feitas por mim, que foram colocadas nos em meus jogos.
+estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pela disciplinas de motores e animação.
 
 ![](Personagem.png)
 
