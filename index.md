@@ -17,7 +17,7 @@ todos os jogos foram criados na disciplina de oficina ministrada pelo professor 
 * Pense se você puder
 [![](pense-se-puder.png)](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/)
 
-[![](Mão.png)](kkenedy.github.io/Entregue se puder/)
+[![](Mão.png)](https://kkenedy.github.io/Entregue%20se%20puder/)
 
 ## artes
 estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pela disciplinas de motores e animação.
