@@ -33,6 +33,8 @@ estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pe
 
 ![](Cobra.png)
 
+![](jogo.png)
+
 
 
 * * *
