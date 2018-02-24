@@ -23,9 +23,14 @@ todos os jogos foram criados na disciplina de oficina ministrada pelo professor 
 ## Artes
 estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pela disciplinas do professor de motores e animação **Durval pacheco**.
 
+
+O personagem foi criado para a ilustração do jogo entregue se puder, em conjunto com as outras imagens, "celular e imagem jogo, que já é a tela de entrada do meu jogo.
+
 ![](Personagem.png)
 
 ![](Celular.png)
+
+as artes do leão, arvore, cobra e do rio foram ciradas para o o tabalho de animação do professor **Durval Pacheco.**
 
 ![](Leão.png)
 
@@ -38,7 +43,6 @@ estas são as artes feitas por mim, que foram colocadas nos jogos ministrados pe
 ![](Rio.png)
 
 
-
 * * *
 
 ## Contatos
@@ -48,5 +52,3 @@ Gmail: kennedyjoao1999@gmail.com
 Facebook: Kennedy Oliveira
 
 * * *
-
-Atualizacao 23/02
